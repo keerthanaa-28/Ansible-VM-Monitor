@@ -1,0 +1,5 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "arumugamkeerthana28@gmail.com"
+email_pass: "flwj zrlc iwzv mdks"
+alert_recipient: "kecece030@kingsedu.ac.in"
